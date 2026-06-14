@@ -320,13 +320,6 @@ When citing this work, please use:
 
 ---
 
-## Acknowledgments
-
-Dr. Catherine Shi (MSU Statistics) — generalization bound framing and statistical learning theory guidance.  
-Dr. Ioana Banicescu (MSU Computer Science) — computational and HPC infrastructure.
-
----
-
 ## License
 
 MIT License. See `LICENSE` for details.  
@@ -334,4 +327,4 @@ Research conducted at Mississippi State University, 2026.
 
 ---
 
-*Adi Singh · MS Cybersecurity Operations and Defense, MSU · `researchingadi` · June 2026*
+*Adi Singh · MS CSE/MATH, MSU · `researchingadi` · June 2026*
